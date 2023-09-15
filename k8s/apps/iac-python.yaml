@@ -36,4 +36,4 @@ spec:
       port: 80
       targetPort: 8181
   selector:
-    app: nginx-deployment
+    app: iac-python-deployment
